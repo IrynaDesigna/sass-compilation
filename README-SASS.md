@@ -1,10 +1,10 @@
-## Instruction
+# Instruction
 
-# Inicialization:
+## Inicialization:
 npm init
 
 
-# Install:
+## Install:
 npm i gulp;
 
 npm i gulp-sass;
@@ -18,11 +18,11 @@ npm i gulp-watch;
 npm i gulp-sourcemaps;
 
 
-# Compilation:
+## Compilation:
 gulp styles;
 
 
-# GitHub:
+## GitHub:
 git remote add origin https://github.com/Web-Designa/sass-compilation.git
 
 git branch -M main
