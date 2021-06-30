@@ -13,3 +13,8 @@ Install:
 
 Compilation:
   gulp styles
+
+GitHub
+  git remote add origin https://github.com/Web-Designa/sass-compilation.git
+  git branch -M main
+  git push -u origin main
